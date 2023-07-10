@@ -7,6 +7,11 @@ public class FlashPlayer extends Player implements Playable{
     }
 
     @Override
+    public void play(int numberOfSongs) {
+
+    }
+
+    @Override
     public void stop() {
         System.out.println("Stop track from memory");
 

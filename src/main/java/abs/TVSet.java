@@ -8,6 +8,11 @@ public class TVSet implements Playable{
     }
 
     @Override
+    public void play(int numberOfSongs) {
+
+    }
+
+    @Override
     public void stop() {
         System.out.println("Stop showing");
 
