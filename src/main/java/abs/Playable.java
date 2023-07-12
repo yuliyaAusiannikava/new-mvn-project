@@ -6,6 +6,7 @@ public interface Playable {
 
     // public abstract by default - неявное создание метода
     void play();
+    void play(int numberOfSongs);
 
     //явное создание метода
     public abstract void stop();
