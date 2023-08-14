@@ -11,7 +11,3 @@ L
 src/main/java/abs/TVSet.java,4/7/4790a33c0c135eb598dab821e022334acd99e88b
 Y
 )src/main/java/errors/ExceptionTester.java,d/d/dd5d352f8f63b72cdd8e8298fac77ead77c3f20e
-X
-(src/test/java/model/ClonePersonTest.java,3/b/3b0b9e2e8585265c3615d696d6ffe4297c20e569
-Z
-*src/test/java/model/PersonEqualsTests.java,1/1/11fc9ae6ac952ed40fd8f789bd0a2f048e5182bf
