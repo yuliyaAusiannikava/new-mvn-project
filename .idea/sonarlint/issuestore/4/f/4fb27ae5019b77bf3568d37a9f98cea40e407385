@@ -1,0 +1,29 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÛÅù´úÿÿÿÿ8Ï¹ØŸ1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(³èÚ™şÿÿÿÿ8Ğ¹ØŸ1
+X
+java:S1854 "6Remove this useless assignment to local variable "d2".(ÇíÙÈûÿÿÿÿ8’ºØŸ1
+S
+java:S1854"6Remove this useless assignment to local variable "d1".(ƒ±8’ºØŸ1
+W
+java:S1854"5Remove this useless assignment to local variable "i".(´¦öûøÿÿÿÿ8’ºØŸ1
+U
+java:S1854"8Remove this useless assignment to local variable "val2".(ô‡ÜÄ8’ºØŸ1
+T
+java:S1854"7Remove this useless assignment to local variable "val".(®÷¦å8’ºØŸ1
+E
+java:S1481"(Remove this unused "val" local variable.(®÷¦å8ŸºØŸ1
+F
+java:S1481")Remove this unused "val2" local variable.(ô‡ÜÄ8¢ºØŸ1
+C
+java:S2129"!Remove this "Integer" constructor(ıÓ¹ƒøÿÿÿÿ8¦ºØŸ1
+H
+java:S1481"&Remove this unused "i" local variable.(´¦öûøÿÿÿÿ8§ºØŸ1
+D
+java:S1481"'Remove this unused "d1" local variable.(ƒ±8§ºØŸ1
+B
+java:S2129 " Remove this "Double" constructor(ÇíÙÈûÿÿÿÿ8§ºØŸ1
+I
+java:S1481 "'Remove this unused "d2" local variable.(ÇíÙÈûÿÿÿÿ8¨ºØŸ1

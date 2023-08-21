@@ -1,0 +1,17 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(Ù¯îÚýÿÿÿÿ8¿†Ä–Ÿ1
+P
+java:S1121".Extract the assignment out of this expression.(‘õÎ±ÿÿÿÿÿ8Â†Ä–Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Ý†Ä–Ÿ1
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(¯ô¢ô8Þ†Ä–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(üá…¹úÿÿÿÿ8à†Ä–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¯îÚýÿÿÿÿ8â†Ä–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘õÎ±ÿÿÿÿÿ8â†Ä–Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶§þô8ã†Ä–Ÿ1
+O
+java:S1135$"2Complete the task associated to this TODO comment.(ÓñàÍ8ä†Ä–Ÿ1
+K
+java:S2140&")Use "java.util.Random.nextInt()" instead.(âý¦–ùÿÿÿÿ8å†Ä–Ÿ1
+]	java:S1255"<This block of commented-out lines of code should be removed.(Õ›òòÿÿÿÿÿ8ç†Ä–Ÿ1
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ÿ›éñøÿÿÿÿ8ë†Ä–Ÿ1

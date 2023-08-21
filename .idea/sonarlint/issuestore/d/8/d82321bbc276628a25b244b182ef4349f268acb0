@@ -1,0 +1,75 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ùùøåÿÿÿÿÿ8¿ÊÅ–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¥µÅêÿÿÿÿÿ8ÂÊÅ–Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¹êŠß8ÃÊÅ–Ÿ1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æëáş8ÃÊÅ–Ÿ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªº„úúÿÿÿÿ8ÄÊÅ–Ÿ1
+G
+java:S1197#"*Move the array designators [] to the type.(æÔ‹ï8ÆÊÅ–Ÿ1
+Y
+java:S1854J"7Remove this useless assignment to local variable "arr".(¨Ÿ¤ıÿÿÿÿ8ÈÊÅ–Ÿ1
+[
+java:S1854G"9Remove this useless assignment to local variable "arr11".(¦µˆùÿÿÿÿ8ÈÊÅ–Ÿ1
+V
+java:S1854A"9Remove this useless assignment to local variable "arr10".(ĞØĞÊ8ÈÊÅ–Ÿ1
+G
+java:S11972"*Move the array designators [] to the type.(­‹©û8ÉÊÅ–Ÿ1
+E
+java:S14812"(Remove this unused "arr" local variable.(­‹©û8ÊÊÅ–Ÿ1
+F
+java:S14813")Remove this unused "arr2" local variable.(‘Ó—8ÊÊÅ–Ÿ1
+F
+java:S14814")Remove this unused "dArr" local variable.(óİÿÇ8ÊÊÅ–Ÿ1
+G
+java:S14815"*Remove this unused "flags" local variable.(ç¡ÿˆ8ÊÊÅ–Ÿ1
+F
+java:S14818")Remove this unused "arr3" local variable.(óåÀæ8ËÊÅ–Ÿ1
+L
+java:S11979"*Move the array designators [] to the type.(ĞÊ‡Éÿÿÿÿÿ8ËÊÅ–Ÿ1
+K
+java:S14819")Remove this unused "arr4" local variable.(ĞÊ‡Éÿÿÿÿÿ8ËÊÅ–Ÿ1
+N
+java:S1197:",Move the array designators [][] to the type.(Ö¥Ãúÿÿÿÿ8ËÊÅ–Ÿ1
+K
+java:S1481:")Remove this unused "arr5" local variable.(Ö¥Ãúÿÿÿÿ8ËÊÅ–Ÿ1
+G
+java:S1197="*Move the array designators [] to the type.(­ÁÜï8ËÊÅ–Ÿ1
+F
+java:S1481=")Remove this unused "arr6" local variable.(­ÁÜï8ËÊÅ–Ÿ1
+V
+java:S1197>"4Move the array designators [][][][][][] to the type.(ßœ…·ûÿÿÿÿ8ÌÊÅ–Ÿ1
+K
+java:S1481>")Remove this unused "arr7" local variable.(ßœ…·ûÿÿÿÿ8ÌÊÅ–Ÿ1
+G
+java:S1481A"*Remove this unused "arr10" local variable.(ĞØĞÊ8ÌÊÅ–Ÿ1
+]	java:S125F"<This block of commented-out lines of code should be removed.(Š°ïûÿÿÿÿ8ÌÊÅ–Ÿ1
+L
+java:S1481G"*Remove this unused "arr11" local variable.(¦µˆùÿÿÿÿ8ÌÊÅ–Ÿ1
+U	java:S106N"9Replace this use of System.out or System.err by a logger.( ›Â¨8ÍÊÅ–Ÿ1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Ïä’µÿÿÿÿÿ8ÏÊÅ–Ÿ1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(Á’¦˜øÿÿÿÿ8ĞÊÅ–Ÿ1
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(â¿İ ıÿÿÿÿ8ĞÊÅ–Ÿ1
+G
+java:S1197Z"*Move the array designators [] to the type.(£Ùà‘8ÑÊÅ–Ÿ1
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(‘Èğ˜8ÑÊÅ–Ÿ1
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(³Àáèüÿÿÿÿ8ÒÊÅ–Ÿ1
+U	java:S106c"9Replace this use of System.out or System.err by a logger.(ˆèáÙ8ÒÊÅ–Ÿ1
+U	java:S106f"9Replace this use of System.out or System.err by a logger.(™›Úô8ÒÊÅ–Ÿ1
+W	java:S125j"<This block of commented-out lines of code should be removed.(ê§şK8ÓÊÅ–Ÿ1
+F
+java:S2140m")Use "java.util.Random.nextInt()" instead.(ÓÛ’Ã8ÓÊÅ–Ÿ1
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(ùŸ‚8ÔÊÅ–Ÿ1
+L
+java:S1197q"*Move the array designators [] to the type.(«„ğŞúÿÿÿÿ8ÔÊÅ–Ÿ1
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ø¹Ğ›ùÿÿÿÿ8ÕÊÅ–Ÿ1
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.( €èÆ8ÕÊÅ–Ÿ1
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(ãÎ¾¾8ÕÊÅ–Ÿ1
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(ø¹Ğ›ùÿÿÿÿ8ÕÊÅ–Ÿ1
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(øñÈ½8ÖÊÅ–Ÿ1
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(®ı—ÿÿÿÿÿ8ÖÊÅ–Ÿ1
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¹÷äû8ÖÊÅ–Ÿ1
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(Åşïöûÿÿÿÿ8ÖÊÅ–Ÿ1
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(æÛ‚Û8×ÊÅ–Ÿ1
+M
+java:S1197Œ"*Move the array designators [] to the type.(ë¯¹¢øÿÿÿÿ8×ÊÅ–Ÿ1
+V	java:S106"9Replace this use of System.out or System.err by a logger.(î«úƒ8ØÊÅ–Ÿ1
