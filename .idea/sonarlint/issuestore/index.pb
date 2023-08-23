@@ -33,8 +33,6 @@ S
 #src/main/java/util/PersonsUtil.java,f/0/f0baaf9e59e2ffabf8d5f6728440e2fdda851d48
 U
 %src/main/java/generics/RawObject.java,d/9/d9e638ddd4bc34336e08f9e812f4dd94b5b83126
-S
-#src/test/java/util/PersonsTest.java,a/a/aa066fa35932a2013f8523b634eb4b3570c46840
 Y
 )src/main/java/generics/GenericObject.java,4/f/4fb27ae5019b77bf3568d37a9f98cea40e407385
 W

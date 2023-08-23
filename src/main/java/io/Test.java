@@ -65,6 +65,8 @@ public class Test {
                     new BufferedReader
                             (new FileReader("/Users/julia/Documents/io_tests/war_and_peace.ru.txt"));
             reader2.read();
+
+
             int charCode;
             while ((charCode = reader2.read()) != -1){
                 System.out.print(((char)charCode));
