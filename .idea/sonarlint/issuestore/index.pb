@@ -11,8 +11,6 @@ Y
 )src/main/java/errors/ExceptionTester.java,d/d/dd5d352f8f63b72cdd8e8298fac77ead77c3f20e
 N
 src/main/java/errors/Task.java,2/3/2397ae8cfb2305b765df3caf6a21de29e8e25a06
-L
-src/main/java/model/Car.java,0/2/024e7dc9540d9b261baae49009d4256b06058f43
 P
  src/main/java/util/MathUtil.java,a/8/a8ce1e88a22c4e1cbb5515ff1d2a7fd04374984f
 R
@@ -23,8 +21,6 @@ Z
 *src/test/java/model/PersonEqualsTests.java,1/1/11fc9ae6ac952ed40fd8f789bd0a2f048e5182bf
 X
 (src/test/java/util/ArraysUtilTester.java,a/6/a63d740fc97d2f0586c238070944ca45724d1afb
-O
-src/main/java/model/Person.java,d/e/de79464f0bdf6673dba8ecb903704c783d5ec95a
 O
 src/main/java/abs/Playable.java,e/a/ea07459985ead16e01d2688ea4b44d8d7a17be34
 ^
@@ -41,5 +37,3 @@ S
 #src/main/java/generics/Storage.java,7/4/745c95a6f7f873d8563dcba15f3244aa175c5e3a
 P
  src/main/java/generics/Pair.java,9/1/910fad6cef7a28e6e3db76dd38ba775a6b2a1b0d
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec

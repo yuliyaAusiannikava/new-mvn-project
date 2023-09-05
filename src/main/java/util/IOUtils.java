@@ -49,6 +49,31 @@ public class IOUtils {
         return sb.toString();
     }
 
+    public static String readFileByLines(String path) {
+
+        StringBuilder sb = new StringBuilder(214748364);
+        try(BufferedReader reader = new BufferedReader(
+                new FileReader(path), 214748364)) { //using try - with - resource. See AutoCloseable
+            String line;
+
+            reader.readLine();
+            while ((line = reader.readLine()) != null) {
+                sb.append(line).append('\n');
+            }
+        } catch (FileNotFoundException e) {
+            System.err.println("Check you file path");
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return sb.toString();
+    }
+
+
+
+
+
     public static void write(String data, String path){
        write(data, path, false);
     }
@@ -118,4 +143,52 @@ class Resource implements Closeable{
     public void printData(){
         System.out.println(data);
     }
+}
+
+
+class Tasks {
+    static void t1(String path, String resultPath){
+        System.out.println("TASK #1 Reverse file text");
+        // 1 step: read content
+        String data = IOUtils.readFile(path);
+
+        // 2 step: process String value (revers)
+        String result = new StringBuilder(data).reverse().toString();
+
+        // 3 step: write result file
+        IOUtils.write(result, resultPath);
+    }
+
+    static void t2(String path, String resultFilePath, String search){
+        System.out.println("TASK #2 Reverse file text");
+       //1 step: read content
+        String resultFormat = "\"%s\": %d";
+        String content = IOUtils.readFile(path).toLowerCase();
+        //2 walk and count words in <search word>: <counter> format
+        int counter = 0;
+
+        if(content.contains(search)){
+            //3 save the EMPTY results
+            int index ;
+            while((index = content.indexOf(search)) != -1){
+                System.out.println("contain");
+                content = content.substring(index + search.length());
+                counter++;
+            }
+
+        }
+        //3 save the result
+        IOUtils.write(String.format(resultFormat, search, counter), resultFilePath);
+
+    }
+
+    public static void main(String[] args) {
+        t1("/Users/julia/Documents/io_tests/Tasks/task 1.txt",
+                "/Users/julia/Documents/io_tests/Tasks/result_task 1.txt" );
+        t2("/Users/julia/Documents/io_tests/war_and_peace.ru.txt",
+                "/Users/julia/Documents/io_tests/war_and_peace2.txt", "мир" );
+
+    }
+
+
 }

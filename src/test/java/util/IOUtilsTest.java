@@ -1,10 +1,13 @@
 package util;
 
 import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
+import com.sun.xml.internal.ws.server.ServerRtException;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.Date;
+
+import static sun.security.util.KnownOIDs.Data;
 
 public class IOUtilsTest {
 
@@ -67,5 +70,15 @@ public class IOUtilsTest {
         IOUtils.copyFiles(dstPath, filePath1, filePath2, filePath3, filePath4, filePath5);
 
         Assert.assertEquals("Wrong content", "ABCDE", IOUtils.readFile(dstPath));
+    }
+
+    @Test
+    public void readFileByLinesTest(){
+        String filePath = "/Users/julia/Documents/io_tests/war_and_peace.ru.txt";
+        IOUtils.readFileByLines(filePath);
+        //System.out.println(data);
+        //Assert.assertNotNull(data);
+
+
     }
 }
